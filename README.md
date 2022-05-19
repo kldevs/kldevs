@@ -1,6 +1,6 @@
 # kldevs
 
-Hi, I'm Kent, a Full-Stack Software Engineer
+Hi, I'm Kent, a Full-Stack Developer
 
 ## Tools & Tech
 
