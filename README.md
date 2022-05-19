@@ -14,6 +14,6 @@ Hi, I'm Kent, a Full-Stack Software Engineer
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/Twitter-333333?style=flat&labelColor=111111&logo=twitter) "Twitter"](https://twitter.com/kldevstech)
+[![Twitter](https://img.shields.io/badge/Twitter-333333?style=flat&labelColor=111111&logo=twitter "Twitter")](https://twitter.com/kldevstech)
 [![Github](https://img.shields.io/badge/Github-333333?style=flat&labelColor=111111&logo=github "Github")](https://github.com/kldevs)
 [![E-mail](https://img.shields.io/badge/E--mail-333333?style=flat&labelColor=111111&logo=protonmail "E-mail")](mailto:kldevs@proton.me)
