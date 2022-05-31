@@ -4,13 +4,13 @@ Hi, I'm Kent, a Full-Stack Developer
 
 ## Tools & Tech
 
-![Node](https://img.shields.io/badge/Node-333333?style=flat&labelColor=111111&logo=node.js "Node")
-![React](https://img.shields.io/badge/React-333333?style=flat&labelColor=111111&logo=react "React")
-![Express](https://img.shields.io/badge/Express-333333?style=flat&labelColor=111111&logo=express "Express")
-![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&labelColor=111111&logo=mongodb "MongoDB")
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&labelColor=111111&logo=javascript "JavaScript")
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&labelColor=111111&logo=html5 "HTML5")
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&labelColor=111111&logo=css3 "CSS3")
+[![Node](https://img.shields.io/badge/Node-333333?style=flat&labelColor=111111&logo=node.js "Node")](https://nodejs.org)
+[![React](https://img.shields.io/badge/React-333333?style=flat&labelColor=111111&logo=react "React")](https://reactjs.org)
+[![Express](https://img.shields.io/badge/Express-333333?style=flat&labelColor=111111&logo=express "Express")](https://expressjs.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&labelColor=111111&logo=mongodb "MongoDB")](https://www.mongodb.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&labelColor=111111&logo=javascript "JavaScript")](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&labelColor=111111&logo=html5 "HTML5")](https://html.com/html5)
+[![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&labelColor=111111&logo=css3 "CSS3")](https://www.w3.org/standards/webdesign/htmlcss)
 
 ## Connect
 
